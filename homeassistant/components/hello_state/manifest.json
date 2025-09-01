@@ -1,0 +1,10 @@
+{
+  "domain": "hello_state",
+  "name": "Hello, state!",
+  "codeowners": ["@rufset"],
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/hello_state",
+  "iot_class": "assumed_state",
+  "quality_scale": "bronze",
+  "requirements": []
+}
